@@ -4,8 +4,10 @@ title: About Me
 permalink: /about/
 ---
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+Hello fellow AI enthousiast!
 
+My name is Marc and I'm a recentundergraduate in Mechanical Engineering in Canada and I have a passion in learning AI. 
 
+I come from a completely different background but I've always had interest in robotics and data. After completing 2 lessons of FastAI, I wanted to continue the course and brush up my coding and AI skills. 
 
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+Let's go on this journey together!
